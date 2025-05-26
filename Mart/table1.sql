@@ -6,7 +6,8 @@ CREATE TABLE `my-project.my-dataset.lineage_history` (
     projet_id STRING
 );
 
-
+SELECT * FROM `bigquery-public-data.samples.wikipedia` LIMIT 10
+SELECT * FROM `bigquery-public-data.samples.wikipedia` LIMIT 5
 SELECT * FROM `bigquery-public-data.samples.wikipedia` LIMIT 10
 
 
