@@ -1,4 +1,4 @@
-CREATE TABLE `my-project.my-dataset.lineage_historyssssssssss` (
+CREATE TABLE `my-project.my-dataset.lineage_history` (
     job_id STRING,
     query STRING,
     sources ARRAY<STRING>,
