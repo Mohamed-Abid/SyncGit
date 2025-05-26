@@ -4,6 +4,7 @@ CREATE TABLE `my-project.my-dataset.lineage_history` (
     sources ARRAY<STRING>,
     targets ARRAY<STRING>,
     projet_id STRING
+    
 );
 
 
